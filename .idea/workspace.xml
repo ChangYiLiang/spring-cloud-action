@@ -453,7 +453,7 @@
       <updated>1538883939225</updated>
       <workItem from="1538883942256" duration="155000" />
       <workItem from="1538884108386" duration="12000" />
-      <workItem from="1538884176802" duration="15460000" />
+      <workItem from="1538884176802" duration="15502000" />
     </task>
     <task id="LOCAL-00001" summary="添加.gitignore文件">
       <created>1538896457357</created>
@@ -504,11 +504,25 @@
       <option name="project" value="LOCAL" />
       <updated>1538921398778</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="添加config配置中心">
+      <created>1538921419155</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538921419155</updated>
+    </task>
+    <task id="LOCAL-00009" summary="添加config配置中心">
+      <created>1538921434450</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538921434450</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15627000" />
+    <option name="totallyTimeSpent" value="15669000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
