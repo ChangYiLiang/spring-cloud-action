@@ -6,4 +6,9 @@ spring:
     username: root
     password: 1234
     url: jdbc:mysql://127.0.0.1:3306/mall?characterEncoding=utf-8&useSSL=false
-status: true
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh
+status: false
