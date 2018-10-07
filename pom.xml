@@ -28,6 +28,8 @@
     <modules>
         <module>eureka</module>
         <module>client</module>
+        <module>config</module>
+        <module>order</module>
     </modules>
 
     <dependencies>

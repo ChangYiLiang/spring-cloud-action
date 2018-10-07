@@ -1,3 +1,5 @@
+server:
+  port: 8002
 spring:
   application:
     name: config
@@ -18,5 +20,3 @@ eureka:
 #  endpoints:
 #    web:
 #      expose: "*"
-server:
-  port: 8002
