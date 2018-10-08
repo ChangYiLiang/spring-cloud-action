@@ -11,12 +11,12 @@ spring:
           search-paths: config-repo
           username: ChangYiLiang
           password: Ch1018818125
-#          basedir: /Users/admin/code/myProjects/java/imooc/SpringCloud_Sell/config/basedir
+#          basedir: /Users/admin/code/myProjects/java/imooc/SpringCloud_Sell/config/basedir  #配置本地配置文件存放路径
 eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka/
-#暴露刷新配置接口
+#暴露刷新配置接口：http://localhost:8002/actuator/bus-refresh
 management:
   endpoints:
     web:
