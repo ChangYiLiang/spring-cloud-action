@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("config")
 @RefreshScope
-public class ConfigTest {
+public class ConfigTestController {
 
     @Value("${status}")
     private boolean status;
