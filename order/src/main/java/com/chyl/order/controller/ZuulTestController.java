@@ -14,6 +14,7 @@ public class ZuulTestController {
 
     @GetMapping("hello")
     public String testZuul() {
+        System.out.println("hello");
         return "hello zuul";
     }
 }

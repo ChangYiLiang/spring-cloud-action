@@ -26,4 +26,4 @@ hystrix:
           enabled: true #超时熔断打开
         isolation:
           thread:
-            timeoutInMilliseconds: 30000
+            timeoutInMilliseconds: 40000
