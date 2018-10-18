@@ -10,6 +10,3 @@ status: false
 ribbon:
   ReadTimeout: 30000
   ConnectTimeout: 30000
-logging:
-  level:
-    root: debug
